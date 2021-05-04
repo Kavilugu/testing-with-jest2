@@ -21,5 +21,9 @@
   "homepage": "https://github.com/Kavilugu/testing-with-jest2#readme",
   "dependencies": {
     "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
   }
 }
