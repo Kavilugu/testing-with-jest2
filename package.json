@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest2",
+  "version": "1.0.0",
+  "description": "Ny text",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavilugu/testing-with-jest2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavilugu/testing-with-jest2/issues"
+  },
+  "homepage": "https://github.com/Kavilugu/testing-with-jest2#readme"
+}
